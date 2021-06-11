@@ -1,0 +1,217 @@
+@charset "UTF-8";
+.main {
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.main h1 {
+  margin-bottom: 50px;
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.main h1 span {
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.main .bg-img {
+  background-image: url(img/01.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main .bg-img .bg-color {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.main .bg-img .bg-color .my {
+  padding-left: 25px;
+}
+
+.main .bg-img .bg-color .my b {
+  font-size: 18px;
+}
+
+.main .bg-img .bg-color .my p {
+  margin-bottom: 5px;
+  margin-top: 30px;
+}
+
+.main .bg-img .bg-color .my .name {
+  padding: 10px;
+  padding-right: 145px;
+}
+
+.main .bg-img .bg-color .my .favper {
+  padding: 10px;
+  padding-right: 145px;
+}
+
+.main .bg-img .bg-color .my .error {
+  color: red;
+  margin-top: 0;
+}
+
+.main .bg-img .bg-color .my .question-contents .question p {
+  display: inline-block;
+  font-size: 18px;
+  border-bottom: 1px black solid;
+}
+
+.main .bg-img .bg-color .my .question-contents .question input {
+  width: 18px;
+  height: 18px;
+  padding-right: 18px;
+  margin-top: 20px;
+}
+
+.main .bg-img .bg-color .my .submit {
+  width: 200px;
+  height: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: inline-block;
+  border-radius: 8%;
+  /* 角丸       */
+  font-size: 15pt;
+  /* 文字サイズ */
+  text-align: center;
+  /* 文字位置   */
+  cursor: pointer;
+  /* カーソル   */
+  padding: 15px 50px;
+  /* 余白       */
+  background: rgba(153, 0, 0, 0.95);
+  /* 背景色     */
+  color: #ffffff;
+  /* 文字色     */
+  line-height: 1em;
+  /* 1行の高さ  */
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  /* なめらか変化 */
+  -webkit-box-shadow: 1px 1px 1px #666666;
+          box-shadow: 1px 1px 1px #666666;
+  /* 影の設定 */
+  border: 2px solid rgba(153, 0, 0, 0.95);
+  /* 枠の指定 */
+}
+
+.main .bg-img .bg-color .my .submit:hover {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  /* カーソル時の影消去 */
+  color: rgba(153, 0, 0, 0.95);
+  /* 背景色     */
+  background: #ffffff;
+  /* 文字色     */
+}
+
+.resultmain {
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.resultmain .bg-color {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.resultmain .bg-color .result {
+  display: inline-block;
+  color: red;
+  border: red 2px solid;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.resultmain .youtube {
+  width: 300px;
+  margin: 50px auto 0 auto;
+}
+
+.resultmain .youtube iframe {
+  display: block;
+}
+
+.readmore {
+  position: relative;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  /*以下お好み*/
+  /* ボーダーを付ける場合 */
+  padding: 10px;
+  border: 1px solid #CCC;
+}
+
+.readmore-content {
+  position: relative;
+  overflow: hidden;
+  /*以下お好み*/
+  /*高さの初期値*/
+  height: 100px;
+}
+
+.readmore-content::before {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  content: "";
+  /*以下お好み グラデーションの色と高さ 高さはreadmoreのheight以下にすること*/
+  height: 50px;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0)), color-stop(50%, rgba(255, 255, 255, 0.8)), color-stop(50%, rgba(255, 255, 255, 0.8)), to(#fff));
+  background: linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.8) 50%, rgba(255, 255, 255, 0.8) 50%, #fff 100%);
+}
+
+/* 続きを読むボタン */
+.readmore-label {
+  display: table;
+  bottom: 5px;
+  position: absolute;
+  bottom: 5px;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  margin: 0 auto;
+  z-index: 2;
+  padding: 0 10px;
+  background-color: #ff7777;
+  border-radius: 10px;
+  color: #FFF;
+}
+
+.readmore-label:before {
+  content: '続きを読む';
+}
+
+.readmore-check {
+  display: none;
+}
+
+/*チェック時にボタンを非表示*/
+.readmore-check:checked ~ .readmore-label {
+  position: static;
+  transform: translateX(0);
+  -webkit-transform: translateX(0);
+  /* 「続きを読む」を押した後、元に戻す必要がない場合は、上のオプションを消してこの1行だけにする */
+  /* display: none; */
+}
+
+.readmore-check:checked ~ .readmore-label:before {
+  content: '閉じる';
+}
+
+/*チェック時に高さを自動に戻す*/
+.readmore-check:checked ~ .readmore-content {
+  height: auto;
+}
+
+/*チェック時グラデーション等を削除*/
+.readmore-check:checked ~ .readmore-content::before {
+  display: none;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,346 @@
+[08-Apr-2020 05:28:56 Asia/Tokyo] PHP Notice:  Undefined index: age in /home/lemon322/lemon-site.work/public_html/reserch/index.php on line 22
+[08-Apr-2020 05:29:05 Asia/Tokyo] PHP Notice:  Undefined index: age in /home/lemon322/lemon-site.work/public_html/reserch/index.php on line 22
+[11-Apr-2020 05:23:46 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Owner\OneDrive\ドキュメント\research\index.php:70) in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 23
+[11-Apr-2020 05:25:02 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Owner\OneDrive\ドキュメント\research\index.php:70) in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 23
+[11-Apr-2020 05:25:51 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:51 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:51 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:51 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:51 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:51 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:51 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:51 Europe/Berlin] PHP Notice:  Undefined variable: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 41
+[11-Apr-2020 05:25:56 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:56 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:56 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:56 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:56 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:56 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:56 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:25:56 Europe/Berlin] PHP Notice:  Undefined variable: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 41
+[11-Apr-2020 05:30:19 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:19 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:19 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:19 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:19 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:19 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:19 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:19 Europe/Berlin] PHP Notice:  Undefined variable: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 41
+[11-Apr-2020 05:30:24 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:24 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:24 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:24 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:24 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:24 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:24 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:30:24 Europe/Berlin] PHP Notice:  Undefined variable: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 41
+[11-Apr-2020 05:35:16 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:35:16 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:35:16 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:35:16 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:35:16 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:35:16 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:35:16 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:36:32 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:36:32 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:36:32 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:36:32 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:36:32 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:36:32 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 05:36:32 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 06:02:04 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 06:02:04 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 06:02:04 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 06:02:04 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 06:02:04 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 06:02:04 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 06:02:04 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 21
+[11-Apr-2020 06:02:04 Europe/Berlin] PHP Notice:  Undefined variable: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 41
+[11-Apr-2020 06:02:53 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 20
+[11-Apr-2020 06:02:53 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 20
+[11-Apr-2020 06:02:53 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 20
+[11-Apr-2020 06:02:53 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 20
+[11-Apr-2020 06:02:53 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 20
+[11-Apr-2020 06:02:53 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 20
+[11-Apr-2020 06:02:53 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 20
+[11-Apr-2020 06:02:53 Europe/Berlin] PHP Notice:  Undefined variable: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 40
+[14-Apr-2020 05:27:20 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:27:20 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:27:20 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:27:20 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:27:20 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:27:20 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:27:20 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:27:20 Europe/Berlin] PHP Notice:  Undefined variable: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 39
+[14-Apr-2020 05:28:12 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:28:12 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:28:12 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:28:12 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:28:12 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:28:12 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:28:12 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:28:12 Europe/Berlin] PHP Notice:  Undefined variable: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 39
+[14-Apr-2020 05:30:03 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 10
+[14-Apr-2020 05:30:03 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 11
+[14-Apr-2020 05:30:03 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 23
+[14-Apr-2020 05:30:03 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 23
+[14-Apr-2020 05:30:03 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 23
+[14-Apr-2020 05:30:03 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 23
+[14-Apr-2020 05:30:03 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 23
+[14-Apr-2020 05:30:03 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 23
+[14-Apr-2020 05:30:03 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 23
+[14-Apr-2020 05:46:01 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 16
+[14-Apr-2020 05:46:01 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 17
+[14-Apr-2020 05:46:01 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 29
+[14-Apr-2020 05:46:01 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 29
+[14-Apr-2020 05:46:01 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 29
+[14-Apr-2020 05:46:01 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 29
+[14-Apr-2020 05:46:01 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 29
+[14-Apr-2020 05:46:01 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 29
+[14-Apr-2020 05:46:01 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 29
+[14-Apr-2020 05:46:33 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:46:33 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:46:33 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:46:33 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:46:33 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:46:33 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:46:33 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:46:33 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:46:33 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:19 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:47:19 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:47:19 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:19 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:19 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:19 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:19 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:19 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:19 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:20 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:21 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:47:21 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:47:21 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:21 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:21 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:21 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:21 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:21 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:21 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:23 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:47:23 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:47:23 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:23 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:23 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:23 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:23 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:23 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:47:23 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:48:00 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:48:00 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:48:00 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:48:00 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:48:00 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:48:00 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:48:00 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:48:00 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:48:00 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:52 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:49:52 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:49:52 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:52 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:52 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:52 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:52 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:52 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:52 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:58 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:49:59 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:49:59 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:59 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:59 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:59 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:59 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:59 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:49:59 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:10 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:51:10 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:51:10 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:10 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:10 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:10 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:10 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:10 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:10 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:15 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:51:15 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:51:15 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:15 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:15 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:15 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:15 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:15 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:51:15 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:17 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:52:17 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:52:17 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:17 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:17 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:17 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:17 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:17 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:17 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:24 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 18
+[14-Apr-2020 05:52:24 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:52:24 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:24 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:24 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:24 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:24 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:24 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:52:24 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 31
+[14-Apr-2020 05:53:29 Europe/Berlin] PHP Notice:  Undefined index: name in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 19
+[14-Apr-2020 05:53:29 Europe/Berlin] PHP Notice:  Undefined index: favper in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 20
+[14-Apr-2020 05:53:30 Europe/Berlin] PHP Notice:  Undefined index: age in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[14-Apr-2020 05:53:30 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[14-Apr-2020 05:53:30 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[14-Apr-2020 05:53:30 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[14-Apr-2020 05:53:30 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[14-Apr-2020 05:53:30 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[14-Apr-2020 05:53:30 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 05:44:12 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 05:44:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 05:44:33 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 05:44:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 05:44:54 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 05:44:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 05:46:07 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 05:46:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 05:46:41 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 05:46:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 09:01:07 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 09:01:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 09:02:11 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 09:02:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 09:18:26 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 09:18:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 09:18:47 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[15-Apr-2020 09:18:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[17-Apr-2020 09:48:15 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:48:15 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:48:15 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:48:15 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:48:15 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:48:15 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:48:15 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[17-Apr-2020 09:48:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[17-Apr-2020 09:48:36 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:48:36 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:48:36 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:48:36 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:48:36 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:48:36 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:48:36 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[17-Apr-2020 09:48:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[17-Apr-2020 09:49:25 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:49:25 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:49:25 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:49:25 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:49:25 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:49:25 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:49:25 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[17-Apr-2020 09:49:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[17-Apr-2020 09:49:46 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:49:46 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:49:46 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:49:46 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:49:46 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:49:46 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:49:46 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[17-Apr-2020 09:49:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[17-Apr-2020 09:52:06 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:52:06 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:52:06 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:52:06 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:52:06 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:52:06 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:52:06 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[17-Apr-2020 09:52:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[17-Apr-2020 09:52:27 Europe/Berlin] PHP Notice:  Undefined index: who in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:52:27 Europe/Berlin] PHP Notice:  Undefined index: place in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:52:27 Europe/Berlin] PHP Notice:  Undefined index: ideal in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:52:27 Europe/Berlin] PHP Notice:  Undefined index: no in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:52:27 Europe/Berlin] PHP Notice:  Undefined index: friend in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:52:27 Europe/Berlin] PHP Notice:  Undefined index: angry in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 30
+[17-Apr-2020 09:52:27 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
+[17-Apr-2020 09:52:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Owner\OneDrive\ドキュメント\research\check.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Owner\OneDrive\ドキュメント\research\check.php on line 32
